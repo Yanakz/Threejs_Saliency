@@ -7,8 +7,8 @@ Code for the T-MM specail issue
 
 ##usage
 
-1. set up localhost, e.g., in python
+* set up localhost, e.g., in python
 ```python
 ~$:python -m SinpleHTTPServer 8888 //python
 ```
-2. See html files for more detail. 
+* See html files for more detail. 
