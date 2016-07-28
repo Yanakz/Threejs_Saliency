@@ -9,6 +9,6 @@ Code for the T-MM specail issue
 
 * set up localhost, e.g., in python
 ```python
-~$:python -m SinpleHTTPServer 8888 //python
+python -m SinpleHTTPServer 8888 //python
 ```
 * See html files for more detail. 
